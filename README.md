@@ -1,2 +1,0 @@
-# agenti.tj
-agenti.tj
